@@ -1,3 +1,3 @@
 # web_browsing
-Parse browsing history from Safari and plot simple statistics.
+An ipython notebook that shows how to extract browsing history from Safari on MacOS and plot simple statistics.
 Pretty self-explanatory for now.
